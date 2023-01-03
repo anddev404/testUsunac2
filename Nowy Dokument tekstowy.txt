@@ -15,3 +15,4 @@ rebase4
 REBASE1
 REBASE2
 kolegi komit 1
+kolegi komit 2
