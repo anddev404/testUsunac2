@@ -17,3 +17,4 @@ REBASE2
 kolegi komit 1
 kolegi komit 2
 moj komit 1
+moj komit 2
