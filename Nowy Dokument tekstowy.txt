@@ -6,7 +6,7 @@ commit 5
 commit 6 kolega
 commit 6 kolega
 commit 7 ja 1
-commit 8 ja 2
+commit 8 ja 2w
 commit 9 ja 3
 rebase1
 rebase2
